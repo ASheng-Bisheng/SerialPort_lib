@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "F:\\AndroidProject\\lib\\serialport\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "F:\\Development\\AndroidSdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\AndroidProject\\lib\\serialport\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "serial_port-Debug-armeabi-v7a": {
+      "artifactName": "serial_port",
+      "buildCommand": "F:\\Development\\AndroidSdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\AndroidProject\\lib\\serialport\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target serial_port",
+      "abi": "armeabi-v7a",
+      "output": "F:\\AndroidProject\\lib\\serialport\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libserial_port.so"
+    }
+  }
+}

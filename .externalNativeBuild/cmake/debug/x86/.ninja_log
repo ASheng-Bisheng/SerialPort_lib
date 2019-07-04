@@ -1,0 +1,5 @@
+# ninja log v5
+1	82	0	CMakeFiles/serial_port.dir/src/main/jni/serial_port.c.o	d49caed4314fda57
+83	178	0	../../../../build/intermediates/cmake/debug/obj/x86/libserial_port.so	b3e2651101eb4174
+1	87	0	CMakeFiles/serial_port.dir/src/main/jni/serial_port.c.o	d49caed4314fda57
+87	153	0	../../../../build/intermediates/cmake/debug/obj/x86/libserial_port.so	b3e2651101eb4174

@@ -1,0 +1,5 @@
+# ninja log v5
+0	106	0	CMakeFiles/serial_port.dir/src/main/jni/serial_port.c.o	bd5b2280ad714c60
+107	169	0	../../../../build/intermediates/cmake/release/obj/x86_64/libserial_port.so	643a7a94c2e74a43
+1	98	0	CMakeFiles/serial_port.dir/src/main/jni/serial_port.c.o	bd5b2280ad714c60
+98	159	0	../../../../build/intermediates/cmake/release/obj/x86_64/libserial_port.so	643a7a94c2e74a43
